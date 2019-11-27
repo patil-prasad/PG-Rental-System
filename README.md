@@ -15,7 +15,9 @@ It is a desktop-based application implementing client-server model, which allows
 * Can pay the deposit directly providing the date of residence.
 
 ## ScreenShots :-
-![abc](/home/cristiano/Downloads/home.jpeg)
-
+![home](https://user-images.githubusercontent.com/30001594/69753358-6c112780-1179-11ea-998a-c06463daeea2.jpeg)
+![register](https://user-images.githubusercontent.com/30001594/69753422-95ca4e80-1179-11ea-9ee3-0d8b177b6d46.jpeg)
+![add](https://user-images.githubusercontent.com/30001594/69753455-a7abf180-1179-11ea-8433-dcd822519cde.jpeg)
+![show](https://user-images.githubusercontent.com/30001594/69753489-bbefee80-1179-11ea-828f-6f4e9343b20f.jpeg)
 
 
