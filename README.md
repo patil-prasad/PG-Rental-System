@@ -1,5 +1,5 @@
 # PG-Rental-System
-It is a desktop-based application implementing client-server model, which allows user to search wide variety of listings for accommodation and also allows proprietor to put accommodation for listings. This application solve problems of students and professionals to search for PG. The newly introduced application will provide an easy access to the  PG’s and it will contain user friendly functions with attractive interfaces.
+It is a desktop-based application implementing client-server model, which allows user to search wide variety of listings for accommodation and also allows proprietor to put accommodation for listings. This application solve problems of students and professionals to search for PG. This newly introduced application will provide an easy access to the  PGs and it will contain user friendly features with attractive interfaces.
 
 ## System Functions :-
 ### Proprietor:
